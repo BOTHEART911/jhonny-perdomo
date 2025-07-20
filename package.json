@@ -10,7 +10,7 @@
   },
   "dependencies": {},
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   },
   "keywords": ["vercel", "proxy", "google-apps-script"],
   "author": "Jhonny Perdomo",
